@@ -54,9 +54,9 @@ Step 6. Jump to "Post-boot tool usage".
 
 ### American Megatrends BIOS
 
-Step 1. Press <TAB> as soon as possible.
+Step 1. Press TAB as soon as possible.
 
-Step 2. Press the key(s) displayed. For example, if you see "<DEL> or <ESC>", you can press <DEL> or <ESC> to get to the BIOS.
+Step 2. Press the key(s) displayed. For example, if you see `<DEL> or <ESC>`, you can press DEL or ESC to get to the BIOS.
 
 Step 3. Jump to "Tool usage", step 4.
 
