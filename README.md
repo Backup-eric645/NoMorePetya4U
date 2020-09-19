@@ -66,6 +66,4 @@ Step 1. Answer a few math facts to verify you know what you're doing.
 
 Step 2. Select "I'm Ready".
 
-Step 3. A bunch of options will appear. Select "Petya Recovery".
-
-Step 4. Follow the steps.
+Step 3. Follow the steps.
